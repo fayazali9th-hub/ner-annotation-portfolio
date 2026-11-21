@@ -1,0 +1,33 @@
+{
+  "sentence_count": 2500,
+  "token_count": 33899,
+  "entity_mention_count": 7701,
+  "entity_types": [
+    "DATE",
+    "LOC",
+    "MONEY",
+    "ORG",
+    "PERSON"
+  ],
+  "entity_mentions_by_type": {
+    "ORG": 2201,
+    "MONEY": 958,
+    "PERSON": 1635,
+    "DATE": 1259,
+    "LOC": 1648
+  },
+  "bio_tag_counts": {
+    "B-ORG": 2201,
+    "O": 18840,
+    "B-MONEY": 958,
+    "I-MONEY": 1352,
+    "B-PERSON": 1635,
+    "I-PERSON": 1635,
+    "B-DATE": 1259,
+    "I-DATE": 2059,
+    "I-ORG": 2217,
+    "B-LOC": 1648,
+    "I-LOC": 95
+  },
+  "dataset_note": "Synthetic, template-generated portfolio dataset; not human-annotated or sourced from real records."
+}
